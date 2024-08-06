@@ -57,4 +57,4 @@ collections:
     output: true
     permalink: /:path/
 
-baseurl: "myJekyllSite" # この設定でルート URL にアクセスできます
+baseurl: "/myJekyllSite" # この設定でルート URL にアクセスできます
