@@ -1,3 +1,8 @@
+---
+title: Unity Basics
+layout: default
+permalink: /scripts-basics/
+---
 # 3Dオブジェクトの扱い
 
 このファイルでは、Unityでの3Dオブジェクトの扱いについて説明します。
