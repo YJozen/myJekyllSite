@@ -58,3 +58,5 @@ collections:
     permalink: /:path/
 
 baseurl: "/myJekyllSite" # この設定でルート URL にアクセスできます
+
+destination: docs
