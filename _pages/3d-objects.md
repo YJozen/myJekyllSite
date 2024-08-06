@@ -1,7 +1,7 @@
 ---
 title: Unity Basics
 layout: default
-permalink: /scripts-basics/
+permalink: /3d-objects/
 ---
 # 3Dオブジェクトの扱い
 
