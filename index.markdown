@@ -8,7 +8,7 @@ layout: home
 
 ## 目次
 1. [Unityの基本操作](/myJekyllSite/unity-basics/)
-2. [スクリプトの基本](/_pages/scripts-basics.md)
+2. [スクリプトの基本](/myJekyllSite/_pages/scripts-basics/)
 3. [3Dオブジェクトの扱い](/_pages/3d-objects.md)
 
 ## Unityの基本操作
