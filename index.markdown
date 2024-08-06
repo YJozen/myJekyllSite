@@ -7,7 +7,7 @@ layout: home
 # Unity 基本授業
 
 ## 目次
-1. [Unityの基本操作](/unity-basics/)
+1. [Unityの基本操作](/myJekyllSite/unity-basics/)
 2. [スクリプトの基本](/_pages/scripts-basics.md)
 3. [3Dオブジェクトの扱い](/_pages/3d-objects.md)
 
