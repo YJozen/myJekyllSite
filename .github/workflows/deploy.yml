@@ -31,7 +31,7 @@ jobs:
       - name: List contents of docs folder
         run: |
           ls -la docs
-          
+
       - name: Upload docs folder as artifact
         uses: actions/upload-artifact@v3
         with:
@@ -48,5 +48,3 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./docs
-
-      -
